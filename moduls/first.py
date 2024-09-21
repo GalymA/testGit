@@ -18,5 +18,5 @@ if __name__ == '__main__':
     print(plus(3, 3))
     print(minus(10, 3))
     print(multy(10, 3))
-    print(devide(16, 2))
+    print(divide(16, 2))
 
